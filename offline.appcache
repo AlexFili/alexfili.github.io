@@ -1,10 +1,11 @@
 ﻿CACHE MANIFEST
-#1471174398
+#1480859846
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
+offlineClient.js
 images/sprite-sheet0.png
-images/sprite2-sheet0.png
+images/greybackbg-sheet0.png
 images/nextbit-sheet0.png
 images/mainp2b-sheet0.png
 images/mainp2b-sheet1.png
@@ -27,8 +28,11 @@ images/aaron1-sheet0.png
 images/aaron1-sheet1.png
 images/talbot-sheet0.png
 images/choicebutton1-sheet0.png
+images/choicebutton2-sheet0.png
+images/choicebutton3-sheet0.png
+images/choicebutton4-sheet0.png
 images/personposition1-sheet0.png
-images/sprite3-sheet0.png
+images/bgdisp-sheet0.png
 images/sprite4-sheet0.png
 images/playgame-sheet0.png
 images/playbutton-sheet0.png
@@ -61,9 +65,11 @@ images/p2party1face-sheet0.png
 images/p2party1face-sheet1.png
 images/p2party1face-sheet2.png
 images/p1party2face-sheet0.png
+images/finn1-sheet0.png
 images/talbot1-sheet0.png
 images/finnd1-sheet0.png
 images/tag1-sheet0.png
+images/fastforwardbit-sheet0.png
 media/attack1.m4a
 media/attack1.ogg
 media/attack2.m4a
